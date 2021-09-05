@@ -1,0 +1,35 @@
+# Why Do Variants Such as Delta Become Dominant?
+
+Mutations that make a virus more transmissible are only part of the equation
+
+
+
+If researchers were predicting which coronavirus variant would take over the world, the Delta variant would not have been their first guess. But since its first appearance in India in December 2020, the [highly contagious variant](https://www.scientificamerican.com/article/how-dangerous-is-the-delta-variant-and-will-it-cause-a-covid-surge-in-the-u-s/) has become the predominant strain of the virus, accounting for more than 90 percent of new COVID cases in the U.S.
+
+Delta’s emergence has caused a number of countries to reinstate travel and mask restrictions that had been loosened as vaccination rates rose. Although the vaccines appear mostly effective against Delta, the sheer number of cases increase the likelihood that it could cause “breakthrough infections” in vaccinated people. And it’s still unclear whether it results in more severe disease than the previously circulating strains.
+
+What is clear, however, is that Delta has a strong evolutionary advantage over earlier strains. “Its rate of increase is unlike any other in the history of this pandemic,” says Vaughn Cooper, an evolutionary biologist at the University of Pittsburgh. Now, he and others are trying to figure out why this particular variant, which carries a suite of different mutations, has been so successful.
+
+The virus’s rapid spread may in part result from a fast replication rate. One recent study found that people infected with Delta had, on average, around 1,000 times more virus in their bodies—known as viral load—than those infected with the original strain, allowing them to infect more people quickly. The variant’s advantage seems to stem from a combination of mutations in the spike protein: the part of the novel coronavirus that binds to ACE2 receptors on the surface of cells and allows the virus to infect them.
+
+Scientists have also wondered whether Delta—in addition to its increased transmissibility—is able to escape the human immune system. It lacks a mutation called E484K, which helps a number of [other variants](https://www.cell.com/cell-host-microbe/pdf/S1931-3128(21)00082-2.pdf) partially avoid being neutralized by antibodies. But lab studies suggested that that a Delta mutation called L452R was even better at performing the same function.
+
+In a recent preprint study, which has not yet been published in a journal, epidemiologist Nathan Grubaugh of Yale School of Public Health in New Haven, Conn., tested how 18 different variants reacted to serum taken from the plasma—the liquid component of blood—from 40 fully vaccinated health care workers. They found the participants’ antibodies were able to neutralize the Alpha variants well, and Delta fairly well. But they [were less effective](https://www.medrxiv.org/content/10.1101/2021.07.14.21260307v1.full-text) against variants that carry the E484K mutations, such as Beta or Gamma, variants that were first identified in South Africa and Brazil, respectively.
+
+The findings were surprising, given that Delta has been much more effective at spreading than Beta or Gamma. Even though the L452R mutation alone improved immune evasion, the actual Delta virus was not actually that good at it, suggesting that the specific combination of mutations on Delta gave the virus a unique function. “Even when we’re trying to simplify things, it’s hard to figure out which combinations become the next ‘it’ virus,” Grubaugh says. He says that Delta’s success suggests immune evasion might not give the virus as strong an evolutionary advantage as transmissibility, at least among unvaccinated people.
+
+But that might not be true in every population. The Gamma variant, for instance, spread rapidly in Brazil but very little throughout the rest of the world. Some researchers suspect that COVID infection rates may have been higher in Brazil than in most countries, meaning that by the time Gamma appeared, the majority of people were already able to mount a strong immune reaction. In that population, evading the immune system would have been helpful for the virus.
+
+Mehul Suthar, a virologist at Emory University in Atlanta, says there may be a limit to how many mutations a virus can acquire on the spike protein before it is no longer able to bind to the ACE2 receptor. “There’s always going to be this tug-of-war between the virus gaining ability to transmit and spread and replicate, and its ability to escape antibody response,” he says.
+
+Suthar points out that the Kappa variant, which arose in India around the same time as Delta, shares most of Delta’s mutations as well as a mutation similar to E484K. But Kappa has not spread worldwide, suggesting that these mutations may interact in some way that makes the virus less evolutionarily fit. “It was a bit of a surprise that it was the Delta variant that ended up taking off,” Suthar says. “It was actually comforting.”
+
+Grubaugh thinks it is unlikely that significant new spike protein mutations are going to appear. Rather, the fittest virus will have a combination of the “best” mutations that let it spread widely among the most people. But it’s hard to predict what those will be. “I think we have a pretty good handle on what mutations we should be looking out for, but that doesn’t necessarily mean that if we see these, we know exactly how they’ll perform,” he says.
+
+Cooper agrees. “It’s logical that that combination [of high transmissibility and the ability to evade antibodies] will evolve if it can, provided infection numbers stay high,” he says. The more people who remain unvaccinated, the greater the chance that something worse than Delta will arise.
+
+Such a potential nightmare virus actually appeared last year: a variant called B.1.620 that was first seen in Africa. It carried the E484K mutation, along with a number of other spike protein mutations that might increase transmissibility. “With that alone you’d be going, ‘Oh my god,’” says Emma Hodcroft, a genetics researcher at the University of Bern in Switzerland. But the number of B.1.260 cases soon declined. “It’s clearly not quite as simple as you have all these mutations and you’re the worst thing around,” Hodcroft says.
+
+The good news is that it would be relatively simple to tweak the mRNA vaccines made by Pfizer and Moderna to make them more effective against such a variant, says Nathaniel Landau, a microbiologist at New York University’s Langone Medical Center. “If a variant did emerge that could escape better than the current one, you really would have a need for booster shots against that variant,” he says.
+
+In the meantime, however, the current vaccines remain the best way to prevent new variants from arising. “It’s clear that with these viruses, it’s not that if we defeat Delta we’ll beat the pandemic,” Suthar says. “There’s just another that keeps emerging.” If too few people get vaccinated and the virus spreads unchecked, he says, “there’ll just be this endless cycle of infection, mutation and transmission.”
