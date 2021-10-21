@@ -16,3 +16,17 @@ From what has been discussed above, we can safely draw a conclution that reading
 When the day off, you back home with your tired body and the mind that endure your boss meaningless talk. However, the most mainstream voice still advises you to do some aerobic sport. It sounds good, but hard to keep for people who suffer busy work all day. So I think reading a book it's a suitable way in your free time to relax because the tired thing is not only your body but also your brain.
 
 The melody of the 21st-century city is so fast, your skill may be enough for today but maybe outdated in next decade, so keep learning it's an effective way if you want to keep up the new technology step. Spend a lot of time on sport seems haven't had this effect. Shape mind it's better than solid body neither in ancient and in modern.
+
+When a hard day's work finishes, the tired thing, not only your body but also your spirit. For the body, it can repair itself. Just give it enough diet and time. But it's not simple for your mental: the depressed emotion, work pressure, and other mental problem can't be self-fix by the time. If you are unconcerned about those problems, it will crush your faith at the point of future time. Fortunately, reading is an effective drug: Does any else thing better than reading a fantasy adventure novel to relax your soul?  When you immerse in the story about good and evil, I think those mental problems about depression and pressure will disappear with the main character's journey.
+
+But doing sport is suitable for people. It can bring a healthy and more muscular body. And some multiple sports is a thoughtful way to upper social ability. However, I think reading books still should take your primary time. Because reading will bring a more tough spirit, this is extremely important for people in the 21st century.
+
+From what discuss above, we can safely conclude that reading is vital than sport. On the one hand, reading can bring you new knowledge. On the other hand, it can repair the mental problem about disappearing or pressure. So please enjoy your reading time, and that it's a suitable interest.
+
+### word
+
+a kind                             a thoughtful         
+
+stronger                             more muscular    
+
+important                      vital 
